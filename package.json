@@ -1,0 +1,47 @@
+{
+    "name": "@types/alexa-sdk",
+    "version": "1.1.1",
+    "description": "TypeScript definitions for Alexa SDK for Node.js",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": " Pete Beegle",
+            "url": "https://github.com/petebeegle",
+            "githubUsername": "petebeegle"
+        },
+        {
+            "name": "Huw",
+            "url": "https://github.com/hoo29",
+            "githubUsername": "hoo29"
+        },
+        {
+            "name": "pascalwhoop",
+            "url": "https://github.com/pascalwhoop",
+            "githubUsername": "pascalwhoop"
+        },
+        {
+            "name": "Ben",
+            "url": "https://github.com/blforce",
+            "githubUsername": "blforce"
+        },
+        {
+            "name": "rk-7",
+            "url": "https://github.com/rk-7",
+            "githubUsername": "rk-7"
+        },
+        {
+            "name": "Alex Malcoci",
+            "url": "https://github.com/alexmalcoci",
+            "githubUsername": "alexmalcoci"
+        }
+    ],
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "167a06c77635583caf2193ea8ad49cc86ce1c61ecf50e2b34e0a42327a5554e6",
+    "typeScriptVersion": "2.2"
+}
